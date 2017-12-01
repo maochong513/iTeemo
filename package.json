@@ -1,0 +1,37 @@
+{
+  "name": "iTeemoPlus",
+  "version": "1.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "color": "~1.0.3",
+    "lodash": "^4.13.1",
+    "moment": "^2.18.1",
+    "native-base": "2.3.1",
+    "native-echarts": "^0.3.0",
+    "react": "16.0.0-alpha.13",
+    "react-native": "0.46.4",
+    "react-native-code-push": "^5.2.0-beta",
+    "react-native-device-info": "^0.11.0",
+    "react-native-easy-toast": "^1.0.6",
+    "react-native-fs": "^2.8.1",
+    "react-native-gallery": "0.0.17",
+    "react-native-image-pan-zoom": "^2.0.7",
+    "react-native-image-zoom-viewer": "^2.0.10",
+    "react-native-modal-dropdown": "^0.5.0",
+    "react-native-percentage-circle": "^1.0.6",
+    "react-native-simple-modal": "^7.0.0",
+    "react-native-splash-screen": "^3.0.1",
+    "react-native-sqlite": "^3.3.3",
+    "react-native-sqlite-storage": "^3.3.3",
+    "react-native-storage": "^0.2.2",
+    "react-native-swiper": "^1.5.11",
+    "react-navigation": "1.0.0-beta.11"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
